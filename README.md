@@ -1,3 +1,3 @@
 # swing-up-control-pendulem
 
-[final_lab.pdf](./final_lab.pdf)
+<iframe src="./final_lab.pdf" width="100%" height="500px"></iframe>
