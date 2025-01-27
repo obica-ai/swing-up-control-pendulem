@@ -6,7 +6,7 @@ https://github.com/obica-ai/swing-up-control-pendulem/assets/79022618/0feb6c37-b
 
 
 
-<img width="868" alt="image" src="https://github.com/obica-ai/swing-up-control-pendulem/assets/79022618/f16088f1-edb8-4b88-9672-7dd5694dc8b9">
+<img width="868" alt="image" src="https://github.com/obica-ai/swing-up-control-pendulem/blob/main/Final_blockDiagram">
 
 <img width="570" alt="image" src="https://github.com/obica-ai/swing-up-control-pendulem/assets/79022618/61791baa-6467-4951-b6ea-356e1223300c">
 
